@@ -58,11 +58,3 @@ There are several things that I learnt while building this project. I am sharing
       * Refer to [this](https://stackoverflow.com/questions/68203678/golang-rand-int-why-every-time-same-values) if you get stuck
  5. __Delete from a map__ : `delete(mapName, key)`
 
-# Sneak peek
-Here are some screenshots of the program in running. 
-
-
-  ![image](https://user-images.githubusercontent.com/106534693/176141635-072ce717-a5d2-41b8-acff-ad7710bf44aa.png)
-  ![image](https://user-images.githubusercontent.com/106534693/176141902-8845a817-9367-4dd6-8fc9-762cc1ec992f.png)
-  ![image](https://user-images.githubusercontent.com/106534693/176142141-79db608e-af78-4dcb-bd77-76a7d7910aa5.png)
-  ![image](https://user-images.githubusercontent.com/106534693/176142239-32473878-8785-4970-bf78-2945754ba026.png)
